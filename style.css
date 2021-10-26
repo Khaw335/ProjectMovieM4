@@ -1,0 +1,45 @@
+.navbar {
+    height: 60px;
+}
+.logo {
+    width: 40px;
+    margin-left: 30px;
+}
+.home {
+    margin: 0px 20px 0px 20px;
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+}
+.home:hover {
+    color: black;
+}
+.mymovie {
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.mymovie:hover {
+    color: black;
+}
+.search {
+    text-align: center;
+}
+.searchBox {
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    margin-top: 30px;
+}
+.searchBtn {
+    
+}
+.container{
+    margin-top: 20px;
+}
+.card
+{
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
